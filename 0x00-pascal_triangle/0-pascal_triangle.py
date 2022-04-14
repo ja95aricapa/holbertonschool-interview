@@ -21,4 +21,5 @@ def pascal_triangle(number):
     if number > 0:
         return triangle[1:]
     else:
-        return triangle[:1]
+        triangle = []
+        return triangle
