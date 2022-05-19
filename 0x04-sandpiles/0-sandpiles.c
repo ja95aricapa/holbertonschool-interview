@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
-
 #include "sandpiles.h"
+
 /**
  * print_grid - print a grid
  * @grid: sandpile
