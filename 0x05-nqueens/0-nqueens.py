@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""
+'''
 Module that solves the N Queens puzzle
-"""
+'''
 from sys import argv, exit
 
 if __name__ == "__main__":
