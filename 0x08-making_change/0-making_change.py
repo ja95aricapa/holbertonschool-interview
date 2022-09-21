@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-'''Making Change module'''
+"""Making Change module"""
 
 
 def makeChange(coins, total):
-    '''Function that makes change for a given total'''
+    """Function that makes change for a given total"""
     if total < 1:
         return 0
     change = 0
